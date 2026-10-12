@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Act</title>
+</head>
+<body>
+    <img src = "https://i.pinimg.com/736x/28/db/33/28db33035f96deda5e4ec1650339c778.jpg" width="300">
+    <img src = "https://i.pinimg.com/736x/12/0f/58/120f589b05986fc26472eef271f82dda.jpg" width="300">
+    <p id="demo" style="font-size: 40px;"></p>
+    <script>
+        const Province = ["Rizal"];
+
+        const Municipality = [
+            "San Mateo",
+            "Taytay",
+            "Binangonan"
+        ];
+        const Firstname = ["Ariana ", "Joji ", "Jamie "];
+        const Lastname = ["Granade", "Santa Maria", "Ow"];
+        const Age = [20, 21, 22];
+
+
+        document.getElementById("demo").innerHTML =
+            "Happy " + Age[0] + "th Birthday, " + Firstname[0] + Lastname[0] +
+            "!" + "<br>"+ "Greetings from: " +
+            Firstname[1] + Lastname[1] +
+            "<br>"+
+            " Prepared By: " +
+            Firstname[2] + Lastname[2] 
+    </script>
+
+</body>
+</html>

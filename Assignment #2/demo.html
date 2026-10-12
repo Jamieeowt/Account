@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <form id="userForm">
+      <label for="fName">First Name:</label>
+      <input type="text" id="fName" name="fName" value="Jaime"><br><br>
+
+      <label for="lName">Last Name:</label>
+      <input type="text" id="lName" name="lName" value="Gerolao"><br><br>
+
+      <input type="button" value="Save as TXT" onclick="downloadTxt()">
+    </form>
+
+    <script>
+      function downloadTxt() {
+        const fName = document.getElementById('fName').value;
+        const lName = document.getElementById('lName').value;
+        const fileContent = `First Name: ${fName}\nLast Name: ${lName}\n`;
+
+        // Create a blob containing the text
+        const blob = new Blob([fileContent], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+
+        // Create a temporary link and trigger the download
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'form.txt';
+        document.body.appendChild(a);
+        a.click();
+
+        // Cleanup
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }
+    </script>
+  </body>
+</html>

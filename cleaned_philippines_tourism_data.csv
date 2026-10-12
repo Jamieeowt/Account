@@ -1,0 +1,541 @@
+TripID,Destination,Province,IslandGroup,Year,Month,Season,TouristOrigin,VisitPurpose,Accommodation,NumberOfVisitors,AvgStayDays,AvgSpendingPHP,SatisfactionRating
+1088,Puerto Princesa,Palawan,Luzon,2023,April,Dry,China,Eco-Tourism,Guesthouse,5227,5.0,3018.0,2.7
+1445,Davao City,Davao del Sur,Mindanao,2023,January,Dry,South Korea,Honeymoon,Airbnb,1357,2.6,36003.0,4.3
+1098,Moalboal,Cebu,Visayas,2021,June,Wet,Japan,Eco-Tourism,Homestay,4500,7.8,10294.0,4.6
+1231,Camiguin,Camiguin,Mindanao,2022,December,Dry,UK,Unknown,Guesthouse,5548,5.5,36867.0,3.1
+1295,Baguio,Benguet,Luzon,2022,January,Dry,USA,Eco-Tourism,Airbnb,846,9.4,25366.0,3.8
+1449,Subic,Zambales,Luzon,2021,July,Wet,Domestic,Honeymoon,Homestay,109,10.3,47545.0,3.8
+1248,Subic,Zambales,Luzon,2022,June,Wet,UK,Adventure,Hotel,3268,13.6,40502.0,3.9
+1353,Pagudpud,Ilocos Norte,Luzon,2022,April,Dry,Domestic,Family,Hostel,741,8.1,40971.0,3.5
+1528,Coron,Palawan,Luzon,2021,October,Wet,Japan,Business,Hotel,647,6.7,26031.0,4.0
+1274,Subic,Zambales,Luzon,2023,May,Dry,China,Family,Guesthouse,2436,5.0,23699.0,3.8
+1217,Davao City,Davao del Sur,Mindanao,2021,December,Dry,Taiwan,Cultural,Guesthouse,5368,13.5,5265.0,4.9
+1416,Davao City,Davao del Sur,Mindanao,2023,November,Dry,Taiwan,Adventure,Unknown,2106,12.5,22338.0,4.9
+1086,Boracay,Aklan,Visayas,2022,October,Wet,Taiwan,Leisure,Airbnb,4519,4.8,21298.0,3.7
+1469,Cebu City,Cebu,Visayas,2021,January,Dry,Germany,Adventure,Resort,4861,8.8,46027.0,3.6
+1305,Cebu City,Cebu,Visayas,2022,February,Dry,UK,Cultural,Resort,1454,4.1,7446.0,2.5
+1169,Manila,Metro Manila,Luzon,2023,June,Wet,Canada,Cultural,Homestay,1064,9.9,17355.0,3.4
+1533,El Nido,Palawan,Luzon,2021,July,Wet,Germany,Business,Guesthouse,3972,13.3,19228.0,4.3
+1472,Coron,Palawan,Luzon,2022,June,Wet,Domestic,Honeymoon,Hotel,3018,8.3,10255.0,4.8
+1459,Baguio,Benguet,Luzon,2022,December,Dry,Canada,Business,Hotel,6380,4.9,32577.0,5.0
+1136,Tagaytay,Cavite,Luzon,2022,May,Dry,South Korea,Family,Hotel,4434,9.4,4893.0,3.7
+1386,Boracay,Aklan,Visayas,2023,April,Dry,South Korea,Family,Homestay,2265,7.4,25366.0,2.6
+1182,Coron,Palawan,Luzon,2021,May,Dry,USA,Family,Hostel,4334,2.0,4085.0,4.6
+1330,Camiguin,Camiguin,Mindanao,2024,January,Dry,Domestic,Adventure,Guesthouse,3905,3.1,29725.0,2.8
+1300,Sagada,Mountain Province,Luzon,2021,October,Wet,Australia,Honeymoon,Airbnb,1754,4.6,14195.0,2.8
+1011,Batanes,Batanes,Luzon,2024,April,Dry,Taiwan,Leisure,Resort,3472,6.1,31319.0,3.2
+1245,Boracay,Aklan,Visayas,2023,October,Wet,Domestic,Adventure,Hostel,103,4.9,16041.0,3.0
+1393,Batanes,Batanes,Luzon,2024,March,Dry,USA,Leisure,Resort,3624,7.7,44210.0,4.4
+1250,Dumaguete,Negros Oriental,Visayas,2023,June,Wet,USA,Leisure,Hostel,1436,13.8,41884.0,4.6
+1173,Puerto Princesa,Palawan,Luzon,2022,December,Dry,Domestic,Eco-Tourism,Hostel,3378,6.3,49782.0,2.6
+1079,Coron,Palawan,Luzon,2024,October,Wet,China,Family,Hostel,890,2.0,44814.0,3.2
+1443,Subic,Zambales,Luzon,2022,October,Wet,Australia,Family,Resort,3507,2.0,18209.0,3.2
+1514,Moalboal,Cebu,Visayas,2024,February,Unknown,Japan,Leisure,Resort,5212,9.6,10782.0,3.4
+1510,Moalboal,Cebu,Visayas,2024,September,Wet,Taiwan,Business,Homestay,458,9.4,8779.0,3.8
+1361,Moalboal,Cebu,Visayas,2023,January,Dry,Canada,Cultural,Airbnb,5937,8.9,25366.0,4.8
+1279,Pagudpud,Ilocos Norte,Luzon,2021,March,Dry,China,Eco-Tourism,Guesthouse,3155,8.5,14323.0,3.0
+1304,Camiguin,Camiguin,Mindanao,2023,January,Dry,Taiwan,Honeymoon,Resort,3597,3.9,25366.0,4.9
+1102,Baguio,Benguet,Luzon,2024,February,Dry,UK,Unknown,Unknown,1532,6.9,5283.0,3.9
+1151,Puerto Princesa,Palawan,Luzon,2021,January,Dry,Canada,Leisure,Resort,6255,10.4,34014.0,2.6
+1411,Camiguin,Camiguin,Mindanao,2024,June,Wet,Taiwan,Honeymoon,Airbnb,359,1.1,9015.0,4.3
+1004,Batanes,Batanes,Luzon,2024,November,Dry,Canada,Adventure,Hostel,1459,8.3,18719.0,4.4
+1312,Davao City,Davao del Sur,Mindanao,2022,September,Wet,Domestic,Diving,Unknown,1261,5.8,36880.0,4.9
+1103,Subic,Zambales,Luzon,2021,February,Dry,Canada,Leisure,Hostel,4044,2.8,43542.0,4.9
+1207,Batanes,Batanes,Luzon,2023,January,Dry,USA,Honeymoon,Hotel,2845,1.6,15051.0,3.8
+1294,Tagaytay,Cavite,Luzon,2024,January,Unknown,South Korea,Diving,Hotel,5647,4.8,14811.0,2.9
+1397,Davao City,Davao del Sur,Mindanao,2021,November,Dry,China,Cultural,Homestay,1217,3.7,31397.0,3.1
+1480,Bohol,Bohol,Visayas,2023,May,Dry,Australia,Cultural,Hotel,3933,14.0,41272.0,2.7
+1222,Baguio,Benguet,Luzon,2022,December,Dry,USA,Honeymoon,Resort,2596,11.9,24832.0,2.9
+1063,Coron,Palawan,Luzon,2023,October,Wet,Taiwan,Cultural,Homestay,3471,4.8,28044.0,2.6
+1154,Davao City,Davao del Sur,Mindanao,2021,April,Dry,Germany,Cultural,Hostel,1749,8.7,49872.0,3.8
+1530,Sagada,Mountain Province,Luzon,2024,April,Dry,USA,Eco-Tourism,Guesthouse,3750,12.7,10535.0,4.5
+1358,Davao City,Davao del Sur,Mindanao,2021,July,Wet,UK,Business,Hotel,1456,9.5,31657.0,4.2
+1267,Batanes,Batanes,Luzon,2024,August,Wet,China,Honeymoon,Homestay,2429,13.7,1603.0,2.8
+1100,Boracay,Aklan,Visayas,2023,December,Dry,USA,Eco-Tourism,Hostel,1769,7.5,47608.0,4.4
+1239,Tagaytay,Cavite,Luzon,2024,April,Dry,Germany,Adventure,Guesthouse,3656,5.0,40735.0,4.8
+1360,Batanes,Batanes,Luzon,2024,January,Dry,South Korea,Eco-Tourism,Airbnb,4341,6.8,25366.0,3.0
+1466,Bohol,Bohol,Visayas,2021,October,Wet,South Korea,Leisure,Hotel,161,1.0,43736.0,4.8
+1438,Dumaguete,Negros Oriental,Visayas,2022,January,Dry,South Korea,Eco-Tourism,Resort,555,7.7,25366.0,4.0
+1502,El Nido,Palawan,Luzon,2024,January,Dry,Japan,Cultural,Hotel,1413,8.8,40242.0,3.5
+1377,Iloilo City,Iloilo,Visayas,2022,July,Wet,Australia,Leisure,Homestay,3679,10.6,43830.0,3.8
+1128,Tagaytay,Cavite,Luzon,2021,November,Dry,China,Diving,Hotel,2510,3.4,46945.0,2.9
+1519,Dumaguete,Negros Oriental,Visayas,2022,May,Dry,Japan,Business,Hostel,7336,7.0,13517.0,3.4
+1415,Puerto Princesa,Palawan,Luzon,2021,July,Wet,USA,Business,Homestay,2331,9.4,25681.0,2.6
+1430,El Nido,Palawan,Luzon,2023,November,Dry,Canada,Honeymoon,Guesthouse,5225,9.0,6832.0,3.4
+1319,Boracay,Aklan,Visayas,2022,October,Wet,Domestic,Adventure,Hostel,3826,12.4,10379.0,3.4
+1369,Subic,Zambales,Luzon,2023,December,Dry,Australia,Diving,Hotel,3628,8.9,11124.0,4.3
+1005,Siargao,Surigao del Norte,Mindanao,2024,October,Wet,South Korea,Eco-Tourism,Guesthouse,2109,13.6,2252.0,4.2
+1429,Camiguin,Camiguin,Mindanao,2024,December,Dry,China,Leisure,Guesthouse,1620,3.0,47327.0,4.4
+1306,Siargao,Surigao del Norte,Mindanao,2023,November,Dry,Canada,Leisure,Homestay,812,10.0,36294.0,2.6
+1419,Batanes,Batanes,Luzon,2021,April,Dry,Domestic,Adventure,Resort,1235,8.7,14893.0,3.1
+1313,Subic,Zambales,Luzon,2023,November,Dry,Japan,Eco-Tourism,Hostel,6807,11.4,49245.0,4.8
+1272,Sagada,Mountain Province,Luzon,2023,June,Wet,China,Business,Unknown,1137,3.7,3895.0,3.6
+1078,Batanes,Batanes,Luzon,2023,January,Dry,USA,Diving,Hostel,1603,6.7,27715.0,4.4
+1327,Pagudpud,Ilocos Norte,Luzon,2021,December,Dry,China,Business,Hostel,2132,8.7,27995.0,2.8
+1105,Baguio,Benguet,Luzon,2021,January,Dry,Taiwan,Leisure,Resort,1970,8.7,30757.0,3.8
+1158,Vigan,Ilocos Sur,Luzon,2021,August,Wet,China,Diving,Homestay,687,4.1,22439.0,2.9
+1202,Baguio,Benguet,Luzon,2023,April,Dry,Taiwan,Adventure,Resort,1884,11.9,14235.0,2.8
+1444,Davao City,Davao del Sur,Mindanao,2022,December,Dry,Australia,Adventure,Airbnb,1644,11.2,26334.0,2.6
+1246,Camiguin,Camiguin,Mindanao,2023,March,Dry,China,Family,Hostel,5902,4.3,21180.0,2.7
+1149,Davao City,Davao del Sur,Mindanao,2021,March,Unknown,Japan,Leisure,Resort,3211,10.2,24813.0,3.5
+1435,Moalboal,Cebu,Visayas,2023,May,Dry,UK,Business,Hostel,6362,11.8,33941.0,3.8
+1269,Batanes,Batanes,Luzon,2021,November,Dry,China,Eco-Tourism,Resort,5910,8.0,23461.0,3.7
+1301,Davao City,Davao del Sur,Mindanao,2024,January,Dry,South Korea,Adventure,Resort,386,2.5,16920.0,4.3
+1095,Manila,Metro Manila,Luzon,2022,May,Dry,Domestic,Family,Homestay,887,6.8,18306.0,4.4
+1242,Coron,Palawan,Luzon,2024,November,Dry,Domestic,Diving,Guesthouse,5223,11.3,5320.0,3.8
+1326,Camiguin,Camiguin,Mindanao,2022,September,Wet,Taiwan,Family,Airbnb,1596,12.1,32673.0,3.8
+1034,El Nido,Palawan,Luzon,2022,November,Dry,Canada,Business,Hotel,5902,7.2,23828.0,3.0
+1406,Iloilo City,Iloilo,Visayas,2022,August,Wet,South Korea,Eco-Tourism,Homestay,2545,2.2,25366.0,4.2
+1290,El Nido,Palawan,Luzon,2021,October,Wet,USA,Business,Homestay,1032,2.1,41128.0,2.8
+1203,Davao City,Davao del Sur,Mindanao,2024,June,Wet,Australia,Adventure,Homestay,1971,2.3,42100.0,2.7
+1280,Pagudpud,Ilocos Norte,Luzon,2021,October,Unknown,UK,Adventure,Hostel,561,5.8,37471.0,4.9
+1316,Dumaguete,Negros Oriental,Visayas,2024,March,Dry,Germany,Business,Resort,2192,13.8,35926.0,5.0
+1122,Tagaytay,Cavite,Luzon,2021,July,Wet,Canada,Adventure,Homestay,2530,4.1,44666.0,2.9
+1200,Subic,Zambales,Luzon,2021,November,Dry,Germany,Business,Homestay,5442,12.0,24942.0,4.8
+1119,Coron,Palawan,Luzon,2022,October,Wet,UK,Adventure,Resort,2252,4.9,33817.0,2.9
+1420,Baguio,Benguet,Luzon,2023,August,Wet,South Korea,Diving,Airbnb,3144,3.2,30426.0,3.6
+1243,Baguio,Benguet,Luzon,2022,September,Wet,USA,Adventure,Guesthouse,4622,6.4,8414.0,4.4
+1382,Siargao,Surigao del Norte,Mindanao,2022,September,Wet,Taiwan,Eco-Tourism,Hotel,58,11.6,42180.0,3.8
+1287,Vigan,Ilocos Sur,Luzon,2024,December,Dry,China,Honeymoon,Guesthouse,3241,4.4,9101.0,2.6
+1044,Bohol,Bohol,Visayas,2024,January,Dry,China,Diving,Hotel,4203,12.8,2505.0,4.3
+1471,Batanes,Batanes,Luzon,2024,October,Wet,Australia,Adventure,Homestay,2064,6.0,37501.0,3.7
+1106,Tagaytay,Cavite,Luzon,2022,December,Dry,Germany,Diving,Guesthouse,7354,11.6,17025.0,3.3
+1368,Puerto Princesa,Palawan,Luzon,2023,July,Wet,China,Cultural,Hotel,3271,10.9,44765.0,4.8
+1453,Baguio,Benguet,Luzon,2021,April,Dry,Japan,Leisure,Resort,4301,5.3,3571.0,2.9
+1115,Pagudpud,Ilocos Norte,Luzon,2024,May,Dry,Domestic,Business,Homestay,3635,8.3,3656.0,3.8
+1342,Coron,Palawan,Luzon,2022,May,Dry,USA,Adventure,Airbnb,4077,11.0,28126.0,4.5
+1409,Camiguin,Camiguin,Mindanao,2021,December,Dry,South Korea,Diving,Homestay,3220,11.7,12977.0,3.5
+1496,Dumaguete,Negros Oriental,Visayas,2021,August,Wet,South Korea,Cultural,Hostel,3743,11.5,13283.0,3.2
+1355,Moalboal,Cebu,Visayas,2022,July,Wet,Taiwan,Business,Hotel,4255,5.4,31877.0,4.2
+1251,El Nido,Palawan,Luzon,2023,January,Dry,Australia,Business,Hostel,4989,5.3,49997.0,3.8
+1140,Boracay,Aklan,Visayas,2023,March,Dry,Taiwan,Cultural,Unknown,6522,10.9,6283.0,2.5
+1237,Siargao,Surigao del Norte,Mindanao,2023,October,Wet,South Korea,Honeymoon,Hotel,394,8.6,46769.0,3.7
+1135,Subic,Zambales,Luzon,2022,October,Wet,Canada,Unknown,Homestay,446,1.6,42537.0,4.5
+1159,Davao City,Davao del Sur,Mindanao,2021,January,Dry,Taiwan,Eco-Tourism,Homestay,5525,12.5,33814.0,4.7
+1278,Pagudpud,Ilocos Norte,Luzon,2024,February,Dry,Germany,Eco-Tourism,Hostel,5281,6.8,21687.0,4.9
+1014,Manila,Metro Manila,Luzon,2022,June,Wet,Japan,Adventure,Airbnb,4500,10.1,41586.0,5.0
+1206,Tagaytay,Cavite,Luzon,2022,August,Wet,UK,Cultural,Hostel,4163,1.1,17155.0,4.6
+1338,Davao City,Davao del Sur,Mindanao,2022,November,Dry,Domestic,Eco-Tourism,Hotel,769,2.1,40926.0,3.2
+1303,Cebu City,Cebu,Visayas,2024,July,Wet,China,Diving,Resort,2467,8.8,43311.0,4.9
+1414,Vigan,Ilocos Sur,Luzon,2021,November,Dry,China,Adventure,Hotel,4685,11.6,22647.0,3.9
+1069,Puerto Princesa,Palawan,Luzon,2021,October,Wet,China,Diving,Hostel,3260,2.7,47954.0,4.8
+1139,Bohol,Bohol,Visayas,2022,May,Dry,South Korea,Leisure,Homestay,3032,8.9,13863.0,3.8
+1288,Sagada,Mountain Province,Luzon,2024,January,Dry,Japan,Eco-Tourism,Airbnb,4167,9.9,4188.0,2.7
+1426,Siargao,Surigao del Norte,Mindanao,2023,March,Dry,China,Honeymoon,Airbnb,2081,2.4,38664.0,3.8
+1175,Camiguin,Camiguin,Mindanao,2021,August,Wet,Domestic,Business,Airbnb,1643,7.5,46110.0,3.8
+1396,Manila,Metro Manila,Luzon,2021,September,Unknown,South Korea,Honeymoon,Homestay,4847,12.9,25087.0,2.6
+1400,Pagudpud,Ilocos Norte,Luzon,2021,April,Dry,USA,Eco-Tourism,Resort,3982,6.5,26212.0,3.9
+1228,Puerto Princesa,Palawan,Luzon,2024,November,Dry,Germany,Cultural,Hotel,824,4.0,22266.0,4.1
+1074,Cebu City,Cebu,Visayas,2023,March,Dry,China,Leisure,Unknown,5676,2.8,47738.0,3.7
+1431,Sagada,Mountain Province,Luzon,2021,March,Dry,Canada,Business,Hostel,7242,7.1,30747.0,4.9
+1417,Boracay,Aklan,Visayas,2023,April,Dry,Taiwan,Honeymoon,Guesthouse,790,5.9,20938.0,3.0
+1046,El Nido,Palawan,Luzon,2021,May,Dry,Australia,Diving,Airbnb,1517,6.4,46182.0,4.5
+1436,Siargao,Surigao del Norte,Mindanao,2024,December,Dry,Taiwan,Family,Homestay,2160,8.1,23612.0,3.6
+1089,Tagaytay,Cavite,Luzon,2021,February,Dry,Taiwan,Adventure,Hostel,4513,5.8,27752.0,2.6
+1531,Subic,Zambales,Luzon,2023,January,Dry,USA,Family,Hostel,4714,1.9,11845.0,4.9
+1097,El Nido,Palawan,Luzon,2021,November,Unknown,Germany,Honeymoon,Guesthouse,552,3.3,13020.0,4.8
+1156,Bohol,Bohol,Visayas,2021,September,Wet,Australia,Business,Hostel,3290,8.6,23556.0,3.3
+1520,Dumaguete,Negros Oriental,Visayas,2024,August,Wet,Domestic,Leisure,Airbnb,774,10.8,41818.0,4.8
+1470,Coron,Palawan,Luzon,2021,March,Dry,China,Diving,Resort,4299,11.4,32854.0,4.5
+1045,Subic,Zambales,Luzon,2024,June,Wet,Canada,Leisure,Guesthouse,610,4.1,46352.0,4.8
+1053,Iloilo City,Iloilo,Visayas,2023,April,Dry,South Korea,Eco-Tourism,Hotel,2539,8.8,2899.0,2.6
+1221,Dumaguete,Negros Oriental,Visayas,2023,September,Wet,UK,Honeymoon,Hostel,811,6.2,23912.0,2.7
+1325,Cebu City,Cebu,Visayas,2024,July,Wet,USA,Cultural,Hotel,2624,2.6,8729.0,3.8
+1111,Subic,Zambales,Luzon,2023,May,Dry,Canada,Eco-Tourism,Airbnb,2093,5.6,10672.0,4.3
+1000,Cebu City,Cebu,Visayas,2022,April,Dry,China,Business,Homestay,5165,6.5,3452.0,2.7
+1437,Cebu City,Cebu,Visayas,2023,August,Wet,China,Adventure,Airbnb,4002,4.8,10991.0,3.0
+1493,Siargao,Surigao del Norte,Mindanao,2024,June,Wet,UK,Business,Homestay,1084,7.6,42882.0,3.9
+1317,Bohol,Bohol,Visayas,2022,March,Dry,Taiwan,Family,Unknown,4560,11.7,25366.0,3.3
+1157,Moalboal,Cebu,Visayas,2023,April,Dry,Germany,Adventure,Airbnb,3759,4.8,13146.0,4.3
+1033,Vigan,Ilocos Sur,Luzon,2021,December,Dry,USA,Adventure,Resort,2677,5.0,40139.0,4.9
+1343,Cebu City,Cebu,Visayas,2023,September,Wet,South Korea,Diving,Airbnb,274,10.9,43533.0,4.1
+1474,Pagudpud,Ilocos Norte,Luzon,2024,March,Dry,China,Eco-Tourism,Homestay,1764,10.1,25366.0,3.7
+1047,Davao City,Davao del Sur,Mindanao,2024,May,Dry,UK,Diving,Guesthouse,3548,6.5,17890.0,3.6
+1339,Pagudpud,Ilocos Norte,Luzon,2021,September,Wet,Germany,Family,Airbnb,789,4.1,9513.0,4.4
+1038,El Nido,Palawan,Luzon,2023,October,Unknown,Japan,Leisure,Hotel,1925,13.5,39196.0,4.0
+1481,Coron,Palawan,Luzon,2024,February,Dry,Canada,Diving,Resort,2917,4.6,25311.0,3.4
+1199,Cebu City,Cebu,Visayas,2021,December,Dry,China,Leisure,Airbnb,3096,2.0,13164.0,4.5
+1273,Sagada,Mountain Province,Luzon,2023,January,Dry,Germany,Family,Homestay,2229,3.5,19630.0,3.8
+1410,Siargao,Surigao del Norte,Mindanao,2023,November,Dry,UK,Honeymoon,Airbnb,5457,8.2,25665.0,2.7
+1096,Sagada,Mountain Province,Luzon,2022,November,Dry,USA,Diving,Homestay,4507,11.0,1839.0,4.9
+1351,Bohol,Bohol,Visayas,2021,June,Wet,South Korea,Adventure,Resort,4217,11.7,38412.0,4.7
+1197,Moalboal,Cebu,Visayas,2024,September,Wet,Domestic,Business,Homestay,2884,6.8,43591.0,4.0
+1427,Siargao,Surigao del Norte,Mindanao,2021,May,Dry,South Korea,Family,Hotel,3179,4.1,25366.0,4.2
+1002,Moalboal,Cebu,Visayas,2023,October,Wet,USA,Leisure,Homestay,1916,11.0,6729.0,4.6
+1456,El Nido,Palawan,Luzon,2022,March,Dry,Taiwan,Leisure,Guesthouse,1930,1.7,28192.0,3.8
+1392,Camiguin,Camiguin,Mindanao,2024,October,Wet,Germany,Business,Hostel,262,6.9,23008.0,3.8
+1277,Cebu City,Cebu,Visayas,2021,May,Dry,UK,Cultural,Resort,2811,13.7,26653.0,2.7
+1489,Camiguin,Camiguin,Mindanao,2024,July,Wet,Australia,Diving,Guesthouse,3538,7.8,23508.0,2.8
+1262,Cebu City,Cebu,Visayas,2023,February,Dry,UK,Adventure,Airbnb,5881,11.0,23467.0,3.9
+1048,Iloilo City,Iloilo,Visayas,2023,January,Dry,Germany,Leisure,Guesthouse,6246,12.7,16581.0,4.0
+1526,Bohol,Bohol,Visayas,2023,November,Dry,Japan,Cultural,Hotel,5168,7.1,44686.0,3.0
+1219,Subic,Zambales,Luzon,2023,June,Wet,Japan,Honeymoon,Guesthouse,1643,6.9,27973.0,3.9
+1025,Puerto Princesa,Palawan,Luzon,2024,July,Unknown,Domestic,Honeymoon,Airbnb,3240,12.8,39778.0,4.9
+1201,Subic,Zambales,Luzon,2022,March,Dry,Taiwan,Family,Homestay,1536,12.5,49297.0,3.8
+1534,Boracay,Aklan,Visayas,2022,September,Wet,Germany,Cultural,Homestay,198,8.2,4917.0,3.5
+1080,El Nido,Palawan,Luzon,2023,September,Wet,China,Leisure,Resort,3639,1.5,25366.0,3.1
+1467,Coron,Palawan,Luzon,2022,March,Dry,Canada,Eco-Tourism,Unknown,3250,3.0,25366.0,3.9
+1018,Vigan,Ilocos Sur,Luzon,2023,March,Dry,South Korea,Leisure,Unknown,2246,12.9,24415.0,3.3
+1482,Pagudpud,Ilocos Norte,Luzon,2024,January,Dry,Australia,Family,Airbnb,5196,12.9,9953.0,3.6
+1492,El Nido,Palawan,Luzon,2023,September,Wet,Germany,Diving,Hostel,1446,13.5,29681.0,3.1
+1381,Coron,Palawan,Luzon,2024,January,Dry,Taiwan,Honeymoon,Hotel,3103,8.6,8152.0,3.1
+1356,Tagaytay,Cavite,Luzon,2022,March,Dry,Japan,Honeymoon,Guesthouse,4433,1.6,6515.0,4.8
+1254,Boracay,Aklan,Visayas,2023,June,Wet,Japan,Honeymoon,Guesthouse,2309,11.6,42511.0,3.1
+1407,Sagada,Mountain Province,Luzon,2021,August,Wet,Domestic,Diving,Guesthouse,140,3.2,28426.0,3.5
+1129,Siargao,Surigao del Norte,Mindanao,2024,May,Dry,China,Adventure,Hostel,5277,12.3,2128.0,3.7
+1373,Coron,Palawan,Luzon,2021,July,Wet,China,Eco-Tourism,Resort,3704,2.0,45856.0,3.8
+1083,Bohol,Bohol,Visayas,2022,August,Wet,Domestic,Diving,Guesthouse,4738,5.8,37652.0,2.8
+1508,Moalboal,Cebu,Visayas,2022,July,Wet,USA,Adventure,Homestay,2566,13.4,39330.0,4.1
+1186,Siargao,Surigao del Norte,Mindanao,2024,August,Wet,China,Business,Airbnb,2676,4.1,19729.0,2.6
+1056,Batanes,Batanes,Luzon,2024,February,Dry,South Korea,Adventure,Hotel,1340,9.2,37437.0,4.3
+1468,Vigan,Ilocos Sur,Luzon,2021,April,Dry,Taiwan,Cultural,Resort,4203,3.9,46353.0,3.5
+1020,Sagada,Mountain Province,Luzon,2022,June,Wet,Taiwan,Business,Homestay,2754,9.1,44975.0,4.6
+1284,Coron,Palawan,Luzon,2023,October,Wet,Domestic,Diving,Guesthouse,138,7.1,35097.0,4.8
+1029,Tagaytay,Cavite,Luzon,2024,July,Wet,USA,Business,Homestay,2520,12.1,40848.0,4.5
+1452,Bohol,Bohol,Visayas,2024,February,Dry,Canada,Leisure,Resort,2546,6.1,21113.0,3.4
+1464,Iloilo City,Iloilo,Visayas,2023,November,Dry,Germany,Honeymoon,Airbnb,2343,3.7,42774.0,4.5
+1511,Cebu City,Cebu,Visayas,2024,April,Dry,China,Honeymoon,Hostel,3500,4.7,1703.0,2.7
+1035,Pagudpud,Ilocos Norte,Luzon,2023,February,Dry,USA,Honeymoon,Guesthouse,4195,6.8,40069.0,5.0
+1442,Boracay,Aklan,Visayas,2023,November,Dry,UK,Eco-Tourism,Homestay,3557,13.8,25366.0,4.0
+1320,Siargao,Surigao del Norte,Mindanao,2021,October,Wet,China,Diving,Hostel,2516,4.5,25366.0,4.2
+1126,Puerto Princesa,Palawan,Luzon,2024,August,Wet,USA,Adventure,Resort,3590,6.1,49825.0,4.0
+1423,Manila,Metro Manila,Luzon,2024,November,Dry,Australia,Leisure,Homestay,5011,10.6,25366.0,3.7
+1211,Tagaytay,Cavite,Luzon,2021,April,Dry,Canada,Eco-Tourism,Airbnb,1750,6.3,10852.0,4.5
+1030,Batanes,Batanes,Luzon,2021,July,Wet,Australia,Eco-Tourism,Homestay,1303,6.7,49590.0,3.8
+1372,Subic,Zambales,Luzon,2022,June,Wet,Japan,Family,Homestay,4742,9.7,48315.0,3.4
+1539,Tagaytay,Cavite,Luzon,2021,September,Wet,Australia,Leisure,Guesthouse,2804,13.0,18705.0,4.5
+1028,El Nido,Palawan,Luzon,2022,April,Dry,Domestic,Adventure,Resort,1449,2.5,15784.0,3.7
+1341,Moalboal,Cebu,Visayas,2021,December,Dry,Domestic,Honeymoon,Hostel,5915,9.3,47415.0,3.4
+1497,Boracay,Aklan,Visayas,2021,April,Dry,Germany,Leisure,Guesthouse,323,10.9,15675.0,4.7
+1032,Batanes,Batanes,Luzon,2022,December,Dry,Canada,Eco-Tourism,Airbnb,218,3.9,46836.0,3.1
+1517,Tagaytay,Cavite,Luzon,2021,July,Wet,Australia,Leisure,Hotel,2109,2.8,20064.0,4.5
+1113,Dumaguete,Negros Oriental,Visayas,2022,February,Dry,South Korea,Honeymoon,Resort,5348,5.6,27511.0,2.7
+1187,Cebu City,Cebu,Visayas,2021,February,Dry,Taiwan,Cultural,Hotel,6342,11.7,41097.0,4.9
+1109,Baguio,Benguet,Luzon,2023,May,Dry,Domestic,Honeymoon,Resort,1489,10.8,17398.0,4.2
+1446,Siargao,Surigao del Norte,Mindanao,2023,July,Wet,China,Diving,Homestay,4405,8.2,27888.0,3.8
+1072,Subic,Zambales,Luzon,2022,May,Dry,Canada,Honeymoon,Hostel,7518,7.0,19966.0,4.4
+1235,Davao City,Davao del Sur,Mindanao,2021,September,Wet,Canada,Adventure,Resort,2098,11.6,2326.0,2.8
+1507,Baguio,Benguet,Luzon,2024,July,Wet,USA,Diving,Resort,4887,10.9,35180.0,4.6
+1006,Davao City,Davao del Sur,Mindanao,2022,September,Wet,South Korea,Family,Homestay,4208,8.9,11516.0,3.4
+1210,Pagudpud,Ilocos Norte,Luzon,2022,November,Unknown,Taiwan,Leisure,Resort,469,8.7,10329.0,4.1
+1213,Boracay,Aklan,Visayas,2024,September,Wet,Taiwan,Diving,Hotel,4390,6.6,33096.0,4.5
+1357,Boracay,Aklan,Visayas,2022,March,Dry,Taiwan,Leisure,Hotel,5321,4.9,39983.0,4.3
+1001,Siargao,Surigao del Norte,Mindanao,2024,June,Wet,Japan,Adventure,Resort,2807,2.3,26398.0,2.7
+1281,Iloilo City,Iloilo,Visayas,2024,July,Wet,Taiwan,Honeymoon,Homestay,1470,1.0,13835.0,3.9
+1204,Siargao,Surigao del Norte,Mindanao,2021,June,Wet,USA,Cultural,Hostel,2994,2.7,49536.0,3.3
+1391,Bohol,Bohol,Visayas,2021,August,Wet,Domestic,Family,Guesthouse,3587,1.9,45904.0,2.6
+1138,Pagudpud,Ilocos Norte,Luzon,2021,October,Wet,China,Eco-Tourism,Hostel,1795,9.2,11420.0,4.8
+1010,Cebu City,Cebu,Visayas,2021,April,Dry,USA,Adventure,Airbnb,1924,4.2,6440.0,3.6
+1153,Manila,Metro Manila,Luzon,2023,July,Wet,Japan,Adventure,Hotel,2662,8.8,3420.0,3.8
+1484,Iloilo City,Iloilo,Visayas,2024,April,Dry,Taiwan,Diving,Unknown,3367,8.9,15435.0,4.3
+1249,Iloilo City,Iloilo,Visayas,2024,December,Dry,China,Adventure,Airbnb,5552,6.1,38942.0,3.0
+1422,Iloilo City,Iloilo,Visayas,2024,July,Wet,Australia,Cultural,Airbnb,2571,9.3,40055.0,2.7
+1516,Manila,Metro Manila,Luzon,2021,August,Wet,China,Unknown,Homestay,1280,7.8,20491.0,4.1
+1331,Sagada,Mountain Province,Luzon,2021,July,Wet,Japan,Eco-Tourism,Guesthouse,3144,9.0,24618.0,4.4
+1141,Iloilo City,Iloilo,Visayas,2021,November,Dry,UK,Adventure,Hostel,921,7.6,14816.0,4.9
+1052,Camiguin,Camiguin,Mindanao,2023,November,Dry,UK,Adventure,Airbnb,1306,9.0,19833.0,2.6
+1485,Iloilo City,Iloilo,Visayas,2021,June,Wet,Taiwan,Eco-Tourism,Resort,493,3.7,3003.0,4.9
+1463,Puerto Princesa,Palawan,Luzon,2021,December,Dry,UK,Cultural,Guesthouse,3111,1.7,2182.0,4.6
+1071,Moalboal,Cebu,Visayas,2022,October,Wet,Taiwan,Adventure,Resort,1531,11.8,42442.0,4.5
+1170,Tagaytay,Cavite,Luzon,2021,July,Wet,Domestic,Adventure,Guesthouse,1805,12.1,43926.0,3.1
+1380,El Nido,Palawan,Luzon,2021,June,Wet,China,Cultural,Hostel,2162,5.9,9427.0,2.6
+1236,Baguio,Benguet,Luzon,2024,July,Wet,Japan,Diving,Resort,395,10.7,37517.0,3.8
+1027,Camiguin,Camiguin,Mindanao,2022,January,Dry,Japan,Cultural,Hostel,2366,5.4,26346.0,3.2
+1192,Tagaytay,Cavite,Luzon,2023,November,Dry,China,Adventure,Guesthouse,6503,5.2,9063.0,4.4
+1155,Batanes,Batanes,Luzon,2023,March,Dry,Canada,Leisure,Hotel,620,3.8,36001.0,3.7
+1066,Camiguin,Camiguin,Mindanao,2023,May,Dry,Germany,Leisure,Hostel,4782,7.0,3964.0,2.6
+1234,Subic,Zambales,Luzon,2021,March,Dry,South Korea,Eco-Tourism,Homestay,142,3.0,33847.0,3.0
+1462,Tagaytay,Cavite,Luzon,2023,September,Wet,South Korea,Honeymoon,Hostel,370,3.0,19703.0,4.8
+1394,Bohol,Bohol,Visayas,2021,April,Dry,UK,Leisure,Airbnb,3432,3.6,14689.0,4.5
+1043,Batanes,Batanes,Luzon,2023,June,Wet,UK,Cultural,Airbnb,2686,12.3,47211.0,3.1
+1226,Bohol,Bohol,Visayas,2023,August,Wet,Japan,Family,Guesthouse,4701,1.6,7986.0,4.2
+1475,Siargao,Surigao del Norte,Mindanao,2021,July,Wet,Taiwan,Eco-Tourism,Guesthouse,2163,12.9,34390.0,3.3
+1112,Boracay,Aklan,Visayas,2022,February,Dry,China,Leisure,Resort,5566,1.8,25366.0,3.8
+1385,Coron,Palawan,Luzon,2021,September,Wet,Domestic,Unknown,Homestay,1061,5.6,26166.0,4.6
+1352,Puerto Princesa,Palawan,Luzon,2021,May,Dry,South Korea,Business,Hostel,1458,7.0,25366.0,4.1
+1147,Bohol,Bohol,Visayas,2023,February,Dry,Domestic,Honeymoon,Guesthouse,4979,5.8,7064.0,4.0
+1494,Pagudpud,Ilocos Norte,Luzon,2022,January,Dry,Germany,Business,Guesthouse,3540,10.5,31234.0,4.1
+1084,Puerto Princesa,Palawan,Luzon,2021,August,Wet,Canada,Diving,Resort,4566,9.3,13425.0,4.4
+1145,El Nido,Palawan,Luzon,2024,February,Dry,Canada,Family,Hostel,3122,6.9,25677.0,3.0
+1177,Batanes,Batanes,Luzon,2024,January,Dry,Domestic,Honeymoon,Homestay,4892,12.6,36301.0,3.0
+1512,Camiguin,Camiguin,Mindanao,2022,January,Dry,Canada,Unknown,Hostel,261,4.4,6544.0,3.8
+1490,Tagaytay,Cavite,Luzon,2021,February,Dry,South Korea,Cultural,Unknown,6070,9.1,37199.0,2.7
+1142,Vigan,Ilocos Sur,Luzon,2021,April,Dry,South Korea,Business,Airbnb,627,10.6,13011.0,2.8
+1324,Vigan,Ilocos Sur,Luzon,2021,February,Dry,Germany,Leisure,Guesthouse,2663,13.5,12757.0,4.8
+1107,Dumaguete,Negros Oriental,Visayas,2024,January,Dry,Australia,Cultural,Guesthouse,3853,6.3,21153.0,3.4
+1500,Sagada,Mountain Province,Luzon,2023,July,Wet,Domestic,Business,Resort,2693,3.0,13684.0,3.4
+1458,Subic,Zambales,Luzon,2022,June,Wet,Australia,Diving,Homestay,4874,7.9,25852.0,3.1
+1091,Moalboal,Cebu,Visayas,2023,March,Dry,Taiwan,Family,Guesthouse,3797,7.6,33602.0,4.3
+1163,El Nido,Palawan,Luzon,2021,November,Dry,Australia,Cultural,Guesthouse,2633,11.9,35747.0,3.5
+1196,El Nido,Palawan,Luzon,2023,August,Wet,Germany,Diving,Hotel,2653,7.8,13550.0,3.8
+1165,Subic,Zambales,Luzon,2024,September,Wet,Australia,Family,Guesthouse,3803,12.9,2310.0,4.5
+1349,Puerto Princesa,Palawan,Luzon,2021,March,Dry,Canada,Family,Homestay,4694,4.7,18750.0,4.0
+1461,Subic,Zambales,Luzon,2021,March,Dry,Canada,Cultural,Unknown,4221,4.5,13562.0,2.5
+1329,Moalboal,Cebu,Visayas,2021,February,Dry,UK,Eco-Tourism,Unknown,3511,7.4,18648.0,3.9
+1395,Dumaguete,Negros Oriental,Visayas,2023,March,Dry,South Korea,Leisure,Airbnb,2881,9.3,46930.0,3.1
+1518,Tagaytay,Cavite,Luzon,2022,January,Dry,Canada,Diving,Resort,4214,13.6,7931.0,4.7
+1024,Batanes,Batanes,Luzon,2024,May,Dry,USA,Family,Guesthouse,5680,4.6,6577.0,4.3
+1465,Siargao,Surigao del Norte,Mindanao,2022,October,Wet,Canada,Adventure,Homestay,2360,1.3,12177.0,4.7
+1252,Sagada,Mountain Province,Luzon,2021,May,Dry,China,Leisure,Hostel,2531,9.0,4978.0,3.7
+1152,Tagaytay,Cavite,Luzon,2024,July,Wet,UK,Unknown,Hostel,3187,2.8,14571.0,4.1
+1383,Pagudpud,Ilocos Norte,Luzon,2023,January,Dry,China,Business,Hostel,1017,2.6,10652.0,4.3
+1049,El Nido,Palawan,Luzon,2024,January,Dry,Germany,Diving,Homestay,1289,4.8,28730.0,2.9
+1143,Davao City,Davao del Sur,Mindanao,2021,January,Dry,Australia,Cultural,Hostel,4913,10.3,39291.0,4.1
+1293,Puerto Princesa,Palawan,Luzon,2024,October,Wet,Domestic,Eco-Tourism,Unknown,3622,6.3,49194.0,4.5
+1090,Bohol,Bohol,Visayas,2021,July,Wet,Australia,Diving,Unknown,3045,10.8,14545.0,3.8
+1224,Siargao,Surigao del Norte,Mindanao,2024,February,Dry,UK,Leisure,Hotel,2290,2.3,25197.0,4.0
+1164,Sagada,Mountain Province,Luzon,2022,February,Dry,Canada,Adventure,Resort,2685,2.6,29246.0,2.7
+1194,Subic,Zambales,Luzon,2022,December,Dry,UK,Family,Homestay,678,6.0,46401.0,3.8
+1509,Davao City,Davao del Sur,Mindanao,2021,June,Wet,Taiwan,Honeymoon,Resort,3301,7.5,34787.0,3.3
+1189,Dumaguete,Negros Oriental,Visayas,2021,May,Dry,Germany,Honeymoon,Resort,1626,6.1,25366.0,4.6
+1003,Coron,Palawan,Luzon,2022,September,Wet,USA,Family,Unknown,4612,3.9,22752.0,4.6
+1077,Subic,Zambales,Luzon,2023,November,Dry,China,Eco-Tourism,Homestay,5620,11.5,5635.0,3.8
+1042,Subic,Zambales,Luzon,2022,July,Wet,USA,Adventure,Unknown,2313,11.0,28693.0,3.3
+1428,Moalboal,Cebu,Visayas,2023,August,Wet,Canada,Diving,Guesthouse,3568,5.4,46186.0,4.7
+1093,Dumaguete,Negros Oriental,Visayas,2022,July,Wet,UK,Eco-Tourism,Homestay,560,10.2,35492.0,3.0
+1068,Siargao,Surigao del Norte,Mindanao,2023,June,Wet,Japan,Cultural,Airbnb,2821,9.8,4931.0,4.5
+1244,Subic,Zambales,Luzon,2024,June,Wet,Australia,Diving,Hostel,3427,10.9,29719.0,4.6
+1441,Sagada,Mountain Province,Luzon,2021,April,Dry,South Korea,Leisure,Guesthouse,5570,2.6,9942.0,3.9
+1529,Camiguin,Camiguin,Mindanao,2023,April,Unknown,USA,Cultural,Unknown,1857,1.3,45321.0,2.7
+1230,Moalboal,Cebu,Visayas,2022,February,Dry,Taiwan,Family,Resort,3049,6.8,9784.0,3.8
+1344,Bohol,Bohol,Visayas,2024,June,Wet,Canada,Eco-Tourism,Homestay,1143,4.4,46553.0,4.0
+1363,Iloilo City,Iloilo,Visayas,2024,November,Dry,Australia,Eco-Tourism,Resort,2168,10.7,45216.0,3.7
+1315,El Nido,Palawan,Luzon,2023,July,Wet,China,Cultural,Hostel,3213,5.8,20154.0,3.4
+1524,Pagudpud,Ilocos Norte,Luzon,2024,June,Wet,Japan,Cultural,Airbnb,929,7.0,29341.0,2.9
+1023,Cebu City,Cebu,Visayas,2022,March,Dry,UK,Honeymoon,Hotel,4420,7.0,36308.0,5.0
+1479,El Nido,Palawan,Luzon,2022,November,Dry,Canada,Business,Homestay,1283,4.0,15632.0,4.5
+1488,Pagudpud,Ilocos Norte,Luzon,2021,January,Dry,USA,Honeymoon,Airbnb,6726,8.8,25366.0,4.7
+1308,Baguio,Benguet,Luzon,2022,June,Wet,Australia,Family,Guesthouse,3514,4.6,5652.0,3.4
+1172,Tagaytay,Cavite,Luzon,2021,August,Wet,South Korea,Family,Homestay,2713,12.2,18614.0,4.1
+1346,Cebu City,Cebu,Visayas,2022,May,Dry,Japan,Eco-Tourism,Airbnb,1468,3.7,15627.0,5.0
+1388,Subic,Zambales,Luzon,2024,January,Dry,Taiwan,Leisure,Hostel,5469,6.3,9476.0,4.2
+1378,Subic,Zambales,Luzon,2021,October,Wet,UK,Leisure,Hotel,4406,3.3,2743.0,3.2
+1285,Pagudpud,Ilocos Norte,Luzon,2023,January,Dry,Canada,Adventure,Guesthouse,674,4.8,49824.0,4.1
+1205,Subic,Zambales,Luzon,2022,May,Unknown,South Korea,Leisure,Guesthouse,459,8.5,40168.0,3.0
+1523,Siargao,Surigao del Norte,Mindanao,2022,September,Wet,Japan,Eco-Tourism,Homestay,1059,6.6,43193.0,2.6
+1181,Sagada,Mountain Province,Luzon,2022,June,Wet,Taiwan,Family,Unknown,372,8.1,15111.0,4.2
+1216,Vigan,Ilocos Sur,Luzon,2024,December,Dry,China,Business,Resort,5479,5.4,37582.0,3.8
+1198,Sagada,Mountain Province,Luzon,2023,September,Wet,UK,Leisure,Hostel,1627,5.2,25366.0,4.9
+1271,Vigan,Ilocos Sur,Luzon,2023,August,Wet,Japan,Honeymoon,Guesthouse,2526,3.3,25366.0,4.5
+1263,Siargao,Surigao del Norte,Mindanao,2021,March,Dry,USA,Leisure,Airbnb,6303,5.0,1876.0,4.0
+1067,El Nido,Palawan,Luzon,2022,June,Wet,Germany,Eco-Tourism,Guesthouse,1285,13.5,31025.0,2.8
+1532,Batanes,Batanes,Luzon,2023,November,Dry,Domestic,Leisure,Hostel,4309,5.3,5392.0,2.8
+1535,Puerto Princesa,Palawan,Luzon,2024,January,Dry,USA,Honeymoon,Airbnb,6147,13.9,2476.0,3.8
+1457,Manila,Metro Manila,Luzon,2022,June,Wet,Domestic,Adventure,Hotel,54,1.7,22578.0,3.0
+1220,Pagudpud,Ilocos Norte,Luzon,2023,December,Dry,Canada,Cultural,Guesthouse,5956,10.8,31571.0,4.2
+1536,Bohol,Bohol,Visayas,2024,August,Wet,South Korea,Business,Hostel,4503,3.7,47719.0,4.3
+1359,Iloilo City,Iloilo,Visayas,2023,February,Dry,China,Adventure,Hotel,1864,1.2,13835.0,4.6
+1051,Manila,Metro Manila,Luzon,2024,January,Dry,Germany,Diving,Guesthouse,2652,9.3,31926.0,4.8
+1460,Manila,Metro Manila,Luzon,2024,November,Dry,South Korea,Business,Airbnb,4742,13.4,2933.0,2.9
+1499,Batanes,Batanes,Luzon,2024,August,Wet,Taiwan,Family,Hostel,931,8.9,29635.0,3.0
+1134,Manila,Metro Manila,Luzon,2024,June,Wet,Germany,Leisure,Homestay,813,10.5,31544.0,4.1
+1362,Cebu City,Cebu,Visayas,2023,August,Wet,Taiwan,Leisure,Resort,2409,10.4,32252.0,3.4
+1061,Moalboal,Cebu,Visayas,2021,November,Dry,South Korea,Eco-Tourism,Guesthouse,4798,3.8,35077.0,2.8
+1085,Sagada,Mountain Province,Luzon,2023,February,Dry,Japan,Honeymoon,Homestay,5644,9.1,41767.0,3.8
+1007,Tagaytay,Cavite,Luzon,2022,January,Dry,USA,Business,Hotel,6078,13.7,36411.0,4.4
+1515,Davao City,Davao del Sur,Mindanao,2024,September,Wet,China,Family,Homestay,2907,12.5,27126.0,4.0
+1092,Boracay,Aklan,Visayas,2023,November,Dry,Germany,Honeymoon,Homestay,654,3.2,42723.0,4.3
+1101,Manila,Metro Manila,Luzon,2024,September,Wet,USA,Business,Guesthouse,3709,7.9,25209.0,2.7
+1323,Cebu City,Cebu,Visayas,2021,February,Dry,Japan,Leisure,Hotel,1659,3.7,14608.0,3.0
+1253,Iloilo City,Iloilo,Visayas,2022,July,Wet,UK,Business,Hostel,4020,12.3,36336.0,2.7
+1389,Baguio,Benguet,Luzon,2023,February,Dry,Germany,Unknown,Homestay,3016,6.5,6378.0,4.8
+1075,Vigan,Ilocos Sur,Luzon,2023,February,Unknown,Domestic,Honeymoon,Airbnb,4292,11.9,34256.0,4.0
+1166,Pagudpud,Ilocos Norte,Luzon,2021,May,Dry,UK,Cultural,Hostel,4549,8.4,32501.0,2.6
+1215,Pagudpud,Ilocos Norte,Luzon,2023,October,Wet,Japan,Cultural,Resort,3435,8.2,38040.0,3.7
+1376,El Nido,Palawan,Luzon,2023,October,Wet,Canada,Diving,Airbnb,3943,11.8,41195.0,2.8
+1041,Siargao,Surigao del Norte,Mindanao,2023,September,Wet,Domestic,Cultural,Hotel,1890,13.9,8935.0,3.7
+1060,Siargao,Surigao del Norte,Mindanao,2022,October,Wet,Taiwan,Business,Resort,301,2.2,36265.0,3.0
+1433,Iloilo City,Iloilo,Visayas,2024,April,Dry,USA,Business,Hotel,990,8.7,13831.0,2.7
+1174,Sagada,Mountain Province,Luzon,2023,March,Dry,UK,Eco-Tourism,Resort,3170,8.3,13497.0,4.9
+1146,Vigan,Ilocos Sur,Luzon,2022,January,Unknown,Taiwan,Leisure,Resort,5711,11.9,2128.0,4.9
+1133,Dumaguete,Negros Oriental,Visayas,2021,May,Dry,China,Adventure,Resort,1816,11.8,45817.0,3.5
+1398,Bohol,Bohol,Visayas,2022,April,Dry,UK,Diving,Hostel,6522,9.3,4527.0,4.4
+1070,Dumaguete,Negros Oriental,Visayas,2023,January,Dry,Australia,Family,Resort,2292,11.0,14083.0,3.1
+1340,Davao City,Davao del Sur,Mindanao,2023,October,Wet,Domestic,Eco-Tourism,Guesthouse,3119,10.1,8903.0,3.3
+1299,Batanes,Batanes,Luzon,2022,April,Dry,China,Family,Guesthouse,4883,13.2,41512.0,4.2
+1522,Vigan,Ilocos Sur,Luzon,2022,May,Dry,Japan,Leisure,Airbnb,1960,1.0,25366.0,4.7
+1125,Baguio,Benguet,Luzon,2024,June,Wet,Canada,Business,Airbnb,3756,5.1,21178.0,3.8
+1538,Camiguin,Camiguin,Mindanao,2021,January,Dry,Canada,Leisure,Unknown,3244,4.9,7037.0,2.6
+1064,Sagada,Mountain Province,Luzon,2021,July,Wet,Japan,Diving,Resort,2778,11.1,6505.0,3.8
+1291,Camiguin,Camiguin,Mindanao,2023,July,Wet,Australia,Family,Resort,656,4.6,5588.0,3.5
+1425,Coron,Palawan,Luzon,2021,November,Unknown,Germany,Diving,Resort,3321,13.1,27581.0,4.2
+1229,Siargao,Surigao del Norte,Mindanao,2022,January,Dry,China,Honeymoon,Homestay,3314,10.1,6747.0,3.0
+1117,Camiguin,Camiguin,Mindanao,2024,April,Dry,Australia,Cultural,Airbnb,2262,9.6,7116.0,4.4
+1309,Coron,Palawan,Luzon,2022,August,Wet,South Korea,Family,Hotel,945,3.1,8841.0,4.2
+1247,Cebu City,Cebu,Visayas,2023,January,Dry,Germany,Cultural,Hotel,792,5.3,29962.0,4.4
+1334,Dumaguete,Negros Oriental,Visayas,2022,August,Wet,South Korea,Honeymoon,Hostel,2222,1.6,39086.0,3.5
+1374,Dumaguete,Negros Oriental,Visayas,2022,March,Unknown,UK,Adventure,Homestay,6515,2.5,15435.0,3.6
+1412,Davao City,Davao del Sur,Mindanao,2022,January,Dry,Germany,Business,Resort,2857,10.6,12539.0,2.7
+1258,Batanes,Batanes,Luzon,2024,March,Dry,China,Honeymoon,Resort,409,13.6,19185.0,4.9
+1286,Cebu City,Cebu,Visayas,2022,November,Dry,Canada,Diving,Resort,3265,4.1,13349.0,4.5
+1486,Sagada,Mountain Province,Luzon,2022,November,Dry,Japan,Adventure,Hotel,1248,6.6,20957.0,2.9
+1495,Davao City,Davao del Sur,Mindanao,2023,February,Dry,China,Leisure,Homestay,7354,2.4,40552.0,2.8
+1384,Camiguin,Camiguin,Mindanao,2023,April,Dry,Australia,Diving,Unknown,6027,5.3,25366.0,2.8
+1209,Boracay,Aklan,Visayas,2022,August,Wet,China,Honeymoon,Hotel,4265,9.4,15361.0,2.9
+1402,Davao City,Davao del Sur,Mindanao,2021,February,Dry,South Korea,Honeymoon,Hostel,2386,4.3,46296.0,4.6
+1476,Iloilo City,Iloilo,Visayas,2022,December,Dry,UK,Business,Homestay,5203,9.5,28048.0,4.6
+1123,El Nido,Palawan,Luzon,2023,December,Dry,UK,Business,Hotel,2976,5.6,43901.0,4.0
+1354,Bohol,Bohol,Visayas,2021,May,Dry,Canada,Cultural,Homestay,4019,8.8,25030.0,4.2
+1527,Coron,Palawan,Luzon,2021,January,Dry,China,Honeymoon,Hotel,1241,9.8,22711.0,4.4
+1161,Baguio,Benguet,Luzon,2024,December,Dry,UK,Family,Homestay,2941,2.2,27249.0,3.9
+1233,Davao City,Davao del Sur,Mindanao,2022,September,Wet,Germany,Family,Hostel,4407,11.5,28560.0,3.0
+1118,Coron,Palawan,Luzon,2021,May,Dry,Canada,Diving,Hostel,1034,3.4,30915.0,3.9
+1185,Puerto Princesa,Palawan,Luzon,2021,December,Dry,UK,Honeymoon,Homestay,3835,9.9,42016.0,2.7
+1387,Siargao,Surigao del Norte,Mindanao,2022,November,Dry,Germany,Adventure,Hotel,5666,1.8,18514.0,4.8
+1168,Baguio,Benguet,Luzon,2024,December,Dry,Canada,Diving,Hotel,6388,1.9,25366.0,3.8
+1124,Sagada,Mountain Province,Luzon,2022,August,Unknown,Australia,Cultural,Airbnb,4871,10.0,11379.0,3.4
+1447,Manila,Metro Manila,Luzon,2022,November,Dry,Germany,Cultural,Homestay,4527,13.8,32214.0,3.8
+1408,Batanes,Batanes,Luzon,2022,October,Wet,Germany,Family,Guesthouse,1712,7.5,46381.0,3.6
+1099,Pagudpud,Ilocos Norte,Luzon,2022,March,Dry,Germany,Cultural,Airbnb,5398,6.2,7751.0,3.0
+1137,Boracay,Aklan,Visayas,2021,July,Wet,China,Eco-Tourism,Hotel,1925,6.0,49391.0,4.5
+1501,Puerto Princesa,Palawan,Luzon,2022,September,Wet,South Korea,Honeymoon,Guesthouse,1831,2.3,19722.0,4.3
+1503,Subic,Zambales,Luzon,2021,June,Wet,Domestic,Business,Airbnb,829,11.8,28702.0,4.3
+1266,Sagada,Mountain Province,Luzon,2022,December,Dry,USA,Business,Guesthouse,6984,7.3,46631.0,4.0
+1268,Baguio,Benguet,Luzon,2021,November,Dry,USA,Family,Hotel,3214,8.1,1901.0,2.8
+1337,Tagaytay,Cavite,Luzon,2022,May,Dry,Germany,Honeymoon,Airbnb,2317,3.5,17594.0,4.5
+1241,Bohol,Bohol,Visayas,2022,January,Dry,USA,Business,Hotel,6716,6.1,33606.0,3.8
+1455,Bohol,Bohol,Visayas,2022,April,Dry,Japan,Business,Hostel,2975,6.6,32557.0,4.3
+1026,Subic,Zambales,Luzon,2022,August,Wet,USA,Leisure,Airbnb,2803,9.7,27997.0,4.3
+1062,Tagaytay,Cavite,Luzon,2022,March,Dry,Japan,Family,Hostel,1139,10.7,13014.0,2.8
+1405,Subic,Zambales,Luzon,2023,June,Wet,Germany,Leisure,Guesthouse,313,13.0,11572.0,4.9
+1214,Coron,Palawan,Luzon,2023,October,Wet,UK,Honeymoon,Hotel,108,8.5,9222.0,3.8
+1375,Sagada,Mountain Province,Luzon,2022,February,Dry,Australia,Family,Hostel,3159,1.4,10863.0,3.8
+1390,Davao City,Davao del Sur,Mindanao,2022,June,Wet,Domestic,Diving,Guesthouse,1989,13.3,40819.0,4.0
+1322,Tagaytay,Cavite,Luzon,2021,December,Dry,South Korea,Honeymoon,Hostel,1296,13.8,29340.0,4.2
+1257,Baguio,Benguet,Luzon,2021,March,Dry,China,Leisure,Guesthouse,3136,9.0,40583.0,3.1
+1289,Pagudpud,Ilocos Norte,Luzon,2024,August,Unknown,USA,Honeymoon,Guesthouse,2814,9.8,13291.0,3.8
+1114,El Nido,Palawan,Luzon,2024,September,Wet,Canada,Leisure,Homestay,127,10.1,6918.0,3.7
+1537,Davao City,Davao del Sur,Mindanao,2021,January,Dry,Australia,Cultural,Homestay,5000,3.6,10487.0,4.6
+1040,Iloilo City,Iloilo,Visayas,2021,November,Dry,UK,Leisure,Resort,5503,10.8,42486.0,3.6
+1332,Iloilo City,Iloilo,Visayas,2021,July,Wet,Australia,Diving,Airbnb,2927,3.0,17505.0,3.1
+1195,Manila,Metro Manila,Luzon,2022,December,Dry,USA,Business,Resort,2161,2.6,4163.0,3.6
+1504,Cebu City,Cebu,Visayas,2021,January,Dry,USA,Adventure,Hotel,4123,10.4,16333.0,2.9
+1371,Dumaguete,Negros Oriental,Visayas,2021,December,Dry,Domestic,Diving,Unknown,5373,1.6,44161.0,4.9
+1336,Camiguin,Camiguin,Mindanao,2023,November,Dry,UK,Cultural,Guesthouse,735,5.7,11182.0,3.1
+1016,Siargao,Surigao del Norte,Mindanao,2024,September,Wet,Taiwan,Leisure,Hotel,666,13.3,46786.0,4.8
+1298,Manila,Metro Manila,Luzon,2024,April,Unknown,Germany,Leisure,Unknown,1298,9.2,26150.0,4.4
+1193,Boracay,Aklan,Visayas,2021,July,Wet,China,Leisure,Homestay,513,3.6,12047.0,5.0
+1110,Batanes,Batanes,Luzon,2024,February,Unknown,Canada,Diving,Resort,3877,1.6,16001.0,4.4
+1176,Puerto Princesa,Palawan,Luzon,2022,February,Dry,Canada,Diving,Homestay,1882,1.8,31125.0,3.2
+1364,Manila,Metro Manila,Luzon,2023,November,Dry,China,Adventure,Guesthouse,467,5.4,8969.0,4.0
+1297,Cebu City,Cebu,Visayas,2021,April,Dry,Taiwan,Diving,Homestay,4219,13.7,25366.0,3.9
+1401,Moalboal,Cebu,Visayas,2023,July,Wet,Canada,Eco-Tourism,Airbnb,3400,5.8,34106.0,3.3
+1260,Vigan,Ilocos Sur,Luzon,2024,December,Dry,Domestic,Cultural,Guesthouse,541,6.7,21459.0,4.4
+1379,Boracay,Aklan,Visayas,2022,July,Wet,Domestic,Diving,Airbnb,2156,2.2,8009.0,3.9
+1399,Pagudpud,Ilocos Norte,Luzon,2024,April,Dry,South Korea,Business,Resort,5455,12.5,34868.0,3.4
+1366,Camiguin,Camiguin,Mindanao,2024,December,Unknown,South Korea,Diving,Resort,1611,6.7,28746.0,4.4
+1160,El Nido,Palawan,Luzon,2023,May,Dry,South Korea,Cultural,Resort,912,12.7,7601.0,3.3
+1413,Sagada,Mountain Province,Luzon,2021,July,Wet,Japan,Eco-Tourism,Hotel,4950,1.1,26232.0,4.4
+1108,Subic,Zambales,Luzon,2022,July,Wet,USA,Business,Airbnb,3089,2.2,25366.0,4.6
+1311,Manila,Metro Manila,Luzon,2021,March,Dry,Australia,Family,Airbnb,1989,3.1,36582.0,3.2
+1054,Bohol,Bohol,Visayas,2021,May,Dry,China,Adventure,Guesthouse,3152,2.4,25366.0,2.8
+1013,Pagudpud,Ilocos Norte,Luzon,2023,May,Dry,USA,Diving,Unknown,2887,9.7,21160.0,3.6
+1015,Subic,Zambales,Luzon,2022,May,Dry,Japan,Honeymoon,Homestay,3434,9.2,18800.0,3.8
+1076,Coron,Palawan,Luzon,2023,February,Unknown,UK,Leisure,Airbnb,4376,6.0,25964.0,3.1
+1148,Iloilo City,Iloilo,Visayas,2023,June,Wet,Canada,Family,Resort,661,13.3,10420.0,4.4
+1483,El Nido,Palawan,Luzon,2022,December,Dry,UK,Family,Airbnb,1864,12.1,16117.0,3.5
+1188,Puerto Princesa,Palawan,Luzon,2024,December,Dry,Australia,Eco-Tourism,Hotel,1254,3.9,23871.0,3.4
+1082,Cebu City,Cebu,Visayas,2024,March,Dry,Canada,Business,Homestay,3825,10.2,37544.0,3.9
+1318,Tagaytay,Cavite,Luzon,2024,March,Dry,Canada,Honeymoon,Hotel,1522,7.4,5872.0,4.0
+1513,Tagaytay,Cavite,Luzon,2022,September,Wet,UK,Business,Hotel,2545,11.5,23498.0,3.4
+1240,Boracay,Aklan,Visayas,2023,October,Wet,USA,Business,Homestay,4465,11.6,13943.0,3.8
+1191,Iloilo City,Iloilo,Visayas,2024,October,Wet,USA,Family,Airbnb,1142,2.8,40987.0,4.3
+1333,Dumaguete,Negros Oriental,Visayas,2024,May,Dry,Domestic,Eco-Tourism,Guesthouse,369,5.9,27078.0,3.3
+1208,Davao City,Davao del Sur,Mindanao,2023,October,Wet,UK,Cultural,Homestay,3150,5.7,44317.0,4.7
+1171,Boracay,Aklan,Visayas,2023,July,Wet,Taiwan,Diving,Airbnb,2114,3.8,21301.0,4.2
+1521,Boracay,Aklan,Visayas,2024,January,Dry,South Korea,Diving,Guesthouse,1279,8.4,46758.0,3.3
+1403,Manila,Metro Manila,Luzon,2024,July,Wet,Germany,Leisure,Airbnb,4249,13.9,11283.0,4.7
+1310,Camiguin,Camiguin,Mindanao,2021,May,Dry,USA,Diving,Airbnb,6089,9.4,22884.0,3.7
+1167,Davao City,Davao del Sur,Mindanao,2021,June,Wet,Japan,Family,Hostel,4077,12.2,46382.0,2.7
+1434,Puerto Princesa,Palawan,Luzon,2023,November,Dry,China,Honeymoon,Hotel,3631,12.1,22204.0,2.9
+1073,Cebu City,Cebu,Visayas,2021,May,Dry,South Korea,Family,Airbnb,4993,6.7,16051.0,4.5
+1144,Cebu City,Cebu,Visayas,2021,January,Dry,USA,Cultural,Resort,2373,12.1,37732.0,4.5
+1448,Puerto Princesa,Palawan,Luzon,2021,November,Dry,South Korea,Business,Resort,5374,10.7,37817.0,3.8
+1218,Sagada,Mountain Province,Luzon,2022,October,Wet,China,Leisure,Hostel,2009,9.5,11818.0,4.2
+1036,Siargao,Surigao del Norte,Mindanao,2021,March,Dry,Domestic,Cultural,Airbnb,6559,1.4,20381.0,4.3
+1212,Iloilo City,Iloilo,Visayas,2022,February,Dry,Domestic,Honeymoon,Unknown,6029,11.7,41182.0,2.7
+1348,Moalboal,Cebu,Visayas,2021,January,Dry,Japan,Cultural,Hostel,4713,2.7,38171.0,2.6
+1421,Tagaytay,Cavite,Luzon,2022,September,Wet,China,Family,Airbnb,3848,5.0,20061.0,3.4
+1424,Vigan,Ilocos Sur,Luzon,2022,January,Dry,South Korea,Cultural,Airbnb,7698,2.0,13874.0,4.7
+1190,Pagudpud,Ilocos Norte,Luzon,2022,August,Wet,Domestic,Leisure,Guesthouse,3595,11.9,33149.0,4.8
+1292,Batanes,Batanes,Luzon,2021,March,Dry,UK,Honeymoon,Guesthouse,1431,1.0,25366.0,2.6
+1104,Subic,Zambales,Luzon,2022,November,Dry,Australia,Business,Resort,5770,2.7,16094.0,4.6
+1121,Iloilo City,Iloilo,Visayas,2023,May,Dry,Canada,Honeymoon,Hostel,3881,11.2,25421.0,2.8
+1478,Tagaytay,Cavite,Luzon,2024,September,Wet,USA,Cultural,Homestay,2965,13.7,47549.0,4.2
+1261,Sagada,Mountain Province,Luzon,2021,March,Dry,Germany,Adventure,Airbnb,4336,1.3,31232.0,4.0
+1057,Subic,Zambales,Luzon,2022,July,Wet,Canada,Honeymoon,Airbnb,2826,11.8,27631.0,3.5
+1227,Davao City,Davao del Sur,Mindanao,2024,February,Dry,Australia,Honeymoon,Guesthouse,6792,8.0,20152.0,3.4
+1505,Cebu City,Cebu,Visayas,2021,May,Dry,Australia,Cultural,Hostel,2257,8.6,9357.0,2.8
+1055,Camiguin,Camiguin,Mindanao,2023,September,Wet,Germany,Business,Airbnb,4177,3.9,41811.0,2.6
+1179,Siargao,Surigao del Norte,Mindanao,2021,June,Wet,Domestic,Cultural,Homestay,2145,11.0,25366.0,2.6
+1120,Camiguin,Camiguin,Mindanao,2021,March,Dry,Japan,Leisure,Airbnb,4214,5.9,23096.0,3.6
+1307,El Nido,Palawan,Luzon,2023,January,Dry,South Korea,Eco-Tourism,Guesthouse,492,3.3,38120.0,4.3
+1022,Moalboal,Cebu,Visayas,2023,February,Dry,USA,Honeymoon,Resort,1398,4.2,32638.0,4.0
+1498,Manila,Metro Manila,Luzon,2023,August,Wet,Canada,Cultural,Guesthouse,3326,13.0,17890.0,2.9
+1276,Bohol,Bohol,Visayas,2023,June,Unknown,Taiwan,Adventure,Homestay,2756,11.3,22783.0,3.6
+1180,Bohol,Bohol,Visayas,2022,December,Dry,Domestic,Family,Airbnb,1255,4.5,41190.0,4.3
+1439,Iloilo City,Iloilo,Visayas,2021,August,Wet,Taiwan,Family,Homestay,3696,5.8,9364.0,2.8
+1432,Puerto Princesa,Palawan,Luzon,2024,May,Dry,USA,Eco-Tourism,Homestay,1515,13.0,43020.0,4.3
+1347,Manila,Metro Manila,Luzon,2024,February,Dry,Domestic,Eco-Tourism,Resort,4282,6.2,15407.0,4.3
+1008,Baguio,Benguet,Luzon,2023,July,Unknown,Australia,Eco-Tourism,Guesthouse,3748,2.6,25366.0,2.7
+1131,Camiguin,Camiguin,Mindanao,2022,July,Wet,South Korea,Honeymoon,Hostel,314,6.8,24344.0,4.7
+1132,Dumaguete,Negros Oriental,Visayas,2022,October,Wet,China,Honeymoon,Resort,536,8.4,36383.0,3.2
+1365,Sagada,Mountain Province,Luzon,2021,December,Dry,Domestic,Eco-Tourism,Airbnb,1520,11.2,41454.0,4.5
+1487,Boracay,Aklan,Visayas,2022,February,Dry,Germany,Adventure,Hostel,2924,12.7,11165.0,3.7
+1031,Coron,Palawan,Luzon,2023,August,Wet,USA,Cultural,Hostel,285,2.0,22800.0,3.0
+1116,Pagudpud,Ilocos Norte,Luzon,2024,November,Dry,UK,Adventure,Homestay,934,13.7,5019.0,2.7
+1525,Manila,Metro Manila,Luzon,2024,December,Dry,Canada,Family,Hotel,1721,12.1,34478.0,3.0
+1021,Siargao,Surigao del Norte,Mindanao,2023,July,Wet,UK,Family,Hostel,1771,6.6,39509.0,4.0
+1162,Siargao,Surigao del Norte,Mindanao,2023,February,Dry,Canada,Business,Hostel,4415,12.6,18867.0,2.7
+1296,Sagada,Mountain Province,Luzon,2024,November,Dry,UK,Business,Hotel,1625,1.2,25366.0,2.6
+1225,Manila,Metro Manila,Luzon,2024,May,Dry,Canada,Adventure,Guesthouse,1786,9.9,8045.0,4.3
+1440,Pagudpud,Ilocos Norte,Luzon,2022,July,Wet,Canada,Unknown,Hostel,4731,2.6,22814.0,2.7
+1259,Camiguin,Camiguin,Mindanao,2022,July,Wet,Taiwan,Leisure,Guesthouse,3166,10.4,27331.0,4.0
+1350,Camiguin,Camiguin,Mindanao,2021,April,Dry,China,Leisure,Resort,1732,4.4,47765.0,3.7
+1094,Davao City,Davao del Sur,Mindanao,2022,April,Dry,Japan,Family,Resort,3696,10.2,46735.0,4.3
+1019,Iloilo City,Iloilo,Visayas,2023,January,Dry,South Korea,Family,Resort,7599,4.5,8604.0,4.0
+1335,Baguio,Benguet,Luzon,2023,February,Dry,Japan,Family,Airbnb,5621,6.4,25366.0,4.1
+1058,Cebu City,Cebu,Visayas,2023,March,Dry,UK,Business,Airbnb,4527,13.2,29217.0,4.7
+1238,El Nido,Palawan,Luzon,2022,December,Dry,UK,Adventure,Airbnb,2461,8.3,43747.0,4.4
+1050,Tagaytay,Cavite,Luzon,2023,February,Dry,Canada,Business,Resort,2904,10.4,25366.0,4.9
+1150,Cebu City,Cebu,Visayas,2022,February,Dry,Domestic,Unknown,Resort,1342,6.2,46476.0,4.1
+1178,El Nido,Palawan,Luzon,2023,August,Wet,UK,Diving,Airbnb,1146,5.5,33624.0,3.4
+1232,Subic,Zambales,Luzon,2021,December,Unknown,Canada,Eco-Tourism,Hostel,183,11.4,40625.0,3.1
+1130,Pagudpud,Ilocos Norte,Luzon,2021,April,Dry,Japan,Leisure,Hostel,2588,3.2,31471.0,3.9
+1506,Batanes,Batanes,Luzon,2023,June,Wet,Canada,Honeymoon,Hotel,2211,11.0,48121.0,2.7
+1265,Pagudpud,Ilocos Norte,Luzon,2022,August,Wet,Germany,Diving,Hotel,812,11.0,22656.0,3.4
+1282,Dumaguete,Negros Oriental,Visayas,2022,February,Dry,China,Cultural,Airbnb,4992,6.9,29295.0,3.9
+1264,Baguio,Benguet,Luzon,2021,March,Dry,China,Leisure,Homestay,3253,12.1,45212.0,3.9
+1184,Cebu City,Cebu,Visayas,2024,October,Wet,Canada,Adventure,Guesthouse,3160,11.1,41565.0,2.6
+1451,Boracay,Aklan,Visayas,2024,April,Dry,Japan,Leisure,Airbnb,4570,1.1,31669.0,3.8
+1065,Baguio,Benguet,Luzon,2022,October,Wet,China,Business,Resort,4097,7.0,38444.0,4.4
+1321,Cebu City,Cebu,Visayas,2022,September,Wet,Germany,Business,Airbnb,3822,12.9,9139.0,4.5
+1283,Subic,Zambales,Luzon,2023,January,Dry,Domestic,Eco-Tourism,Homestay,3549,7.3,46752.0,2.7
+1081,Bohol,Bohol,Visayas,2023,July,Wet,Australia,Family,Resort,979,1.3,13692.0,3.7
+1059,Subic,Zambales,Luzon,2023,February,Dry,Japan,Unknown,Airbnb,7372,11.6,41711.0,4.2
+1418,El Nido,Palawan,Luzon,2024,November,Dry,Japan,Leisure,Resort,3512,3.7,5043.0,4.8
+1223,Moalboal,Cebu,Visayas,2023,August,Wet,Germany,Family,Airbnb,1548,13.8,34997.0,3.2
+1491,Batanes,Batanes,Luzon,2021,June,Wet,Canada,Cultural,Homestay,3292,1.1,26052.0,4.5
+1367,Vigan,Ilocos Sur,Luzon,2022,September,Wet,Taiwan,Honeymoon,Resort,3562,6.4,28324.0,4.7
+1037,Subic,Zambales,Luzon,2022,November,Dry,China,Family,Resort,716,11.3,40496.0,4.4
+1477,Tagaytay,Cavite,Luzon,2022,September,Wet,South Korea,Family,Resort,4569,3.6,3621.0,3.1
+1009,Sagada,Mountain Province,Luzon,2022,May,Dry,Canada,Honeymoon,Guesthouse,1656,12.5,39262.0,3.7
+1450,Siargao,Surigao del Norte,Mindanao,2022,March,Dry,South Korea,Adventure,Guesthouse,4640,6.5,26344.0,2.9
+1017,Manila,Metro Manila,Luzon,2021,June,Wet,UK,Cultural,Guesthouse,1316,13.0,25366.0,4.7
+1473,Dumaguete,Negros Oriental,Visayas,2022,April,Dry,USA,Business,Homestay,1574,1.3,29333.0,3.4
+1454,Iloilo City,Iloilo,Visayas,2024,March,Dry,South Korea,Leisure,Resort,1684,1.2,46355.0,3.1
+1183,Manila,Metro Manila,Luzon,2023,December,Dry,South Korea,Diving,Resort,1276,13.5,19314.0,4.6
+1270,Puerto Princesa,Palawan,Luzon,2023,February,Dry,China,Family,Hotel,4501,9.1,12376.0,3.9
+1328,Batanes,Batanes,Luzon,2024,August,Wet,UK,Business,Hotel,2103,7.4,16627.0,4.1
+1314,Camiguin,Camiguin,Mindanao,2023,February,Dry,Australia,Leisure,Guesthouse,2293,3.9,19714.0,3.0
+1127,Subic,Zambales,Luzon,2022,June,Wet,Australia,Honeymoon,Airbnb,983,4.4,33578.0,3.8
+1012,El Nido,Palawan,Luzon,2021,January,Dry,Germany,Eco-Tourism,Guesthouse,5186,13.5,6750.0,4.6
+1256,Bohol,Bohol,Visayas,2022,June,Wet,South Korea,Business,Resort,2651,11.9,11036.0,4.3
+1275,Camiguin,Camiguin,Mindanao,2023,May,Dry,Australia,Honeymoon,Homestay,5035,13.0,32019.0,3.9
+1370,Baguio,Benguet,Luzon,2023,February,Dry,Domestic,Unknown,Airbnb,1471,8.0,15507.0,2.7
+1039,Pagudpud,Ilocos Norte,Luzon,2024,November,Dry,Canada,Business,Airbnb,3782,5.2,8355.0,4.6
+1404,Coron,Palawan,Luzon,2023,April,Dry,Taiwan,Cultural,Resort,4826,8.3,26056.0,2.8
+1345,Boracay,Aklan,Visayas,2022,February,Dry,Canada,Honeymoon,Hostel,1610,9.0,40847.0,3.2
+1302,Baguio,Benguet,Luzon,2024,April,Dry,South Korea,Eco-Tourism,Hotel,4244,13.1,31318.0,2.9
+1255,Iloilo City,Iloilo,Visayas,2022,July,Wet,USA,Cultural,Hostel,2747,6.8,10135.0,3.0
+1087,Puerto Princesa,Palawan,Luzon,2023,December,Dry,Australia,Cultural,Resort,4187,2.4,17342.0,3.7

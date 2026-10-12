@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Windows Tile Menu Layout</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1b3d39 0%, #0d2321 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+            color: #ffffff;
+        }
+
+        h1 {
+            font-weight: 300;
+            font-size: 2.8rem;
+            margin-bottom: 25px;
+            align-self: flex-start;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+        }
+
+        /* Main Table Grid */
+        table.tile-menu {
+            border-collapse: separate;
+            border-spacing: 10px; /* Gap between Metro tiles */
+            margin: 0 auto;
+        }
+
+        td {
+            padding: 0;
+            vertical-align: top;
+        }
+
+        /* Tile Link Container */
+        .tile {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            color: #ffffff;
+            position: relative;
+            transition: transform 0.15s ease, filter 0.15s ease, outline 0.1s ease;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .tile:hover {
+            transform: scale(1.03);
+            filter: brightness(1.1);
+            outline: 2px solid rgba(255, 255, 255, 0.7);
+            z-index: 10;
+        }
+
+        /* Tile Sizing */
+        /* Standard small unit: 85px x 85px */
+        .small  { width: 85px;  height: 85px; }
+        /* Medium square (2x2 units + 1 gap): 180px x 180px */
+        .medium { width: 180px; height: 180px; }
+        /* Wide rectangle (4x2 units + 3 gaps): 370px x 180px */
+        .wide   { width: 370px; height: 180px; }
+
+        /* Tile Icons */
+        .tile img {
+            width: 48px;
+            height: 48px;
+            object-fit: contain;
+            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+        }
+
+        .small img {
+            width: 32px;
+            height: 32px;
+        }
+
+        .wide img, .medium img {
+            width: 56px;
+            height: 56px;
+        }
+
+        /* Tile Text / Labels */
+        .tile-label {
+            position: absolute;
+            bottom: 8px;
+            left: 10px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+        }
+
+        /* Windows Accent Colors */
+        .blue      { background-color: #0078d7; }
+        .purple    { background-color: #68217a; }
+        .green     { background-color: #107c10; }
+        .dark-cyan { background-color: #008272; }
+        .magenta   { background-color: #b4009e; }
+        .red       { background-color: #d83b01; }
+        .orange    { background-color: #ea4300; }
+        .teal      { background-color: #00bcf2; }
+    </style>
+</head>
+<body>
+
+    <h1>Start</h1>
+
+    <!-- 
+      Base Grid Dimensions: 
+      Columns = 8 small units (approx 2 wide tiles wide)
+      RowSpan and ColSpan recreate the asymmetrical Windows 10 layout:
+      - Small tile  = 1 col x 1 row
+      - Medium tile = 2 cols x 2 rows
+      - Wide tile   = 4 cols x 2 rows
+    -->
+    <table class="tile-menu">
+        <!-- ROW 1 & 2 -->
+        <tr>
+            <!-- Wide Mail Tile (4 cols, 2 rows) -->
+            <td colspan="4" rowspan="2">
+                <a href="https://outlook.live.com" target="_blank" class="tile wide blue">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/microsoft-outlook.svg" alt="Mail">
+                    <span class="tile-label">Outlook Mail</span>
+                </a>
+            </td>
+
+            <!-- Medium Calendar Tile (2 cols, 2 rows) -->
+            <td colspan="2" rowspan="2">
+                <a href="https://calendar.google.com" target="_blank" class="tile medium purple">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/google-calendar.svg" alt="Calendar">
+                    <span class="tile-label">Calendar</span>
+                </a>
+            </td>
+
+            <!-- Small Tile 1 (1 col, 1 row) -->
+            <td colspan="1" rowspan="1">
+                <a href="https://youtube.com" target="_blank" class="tile small red">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/youtube.svg" alt="Videos">
+                </a>
+            </td>
+
+            <!-- Small Tile 2 (1 col, 1 row) -->
+            <td colspan="1" rowspan="1">
+                <a href="https://spotify.com" target="_blank" class="tile small orange">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/spotify.svg" alt="Music">
+                </a>
+            </td>
+        </tr>
+
+        <!-- ROW 2 (Continuation of Row 1 spans) -->
+        <tr>
+            <!-- Small Tile 3 (1 col, 1 row) -->
+            <td colspan="1" rowspan="1">
+                <a href="https://store.steampowered.com" target="_blank" class="tile small green">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/steam.svg" alt="Games">
+                </a>
+            </td>
+
+            <!-- Small Tile 4 (1 col, 1 row) -->
+            <td colspan="1" rowspan="1">
+                <a href="https://instagram.com" target="_blank" class="tile small magenta">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/instagram.svg" alt="Photos">
+                </a>
+            </td>
+        </tr>
+
+        <!-- ROW 3 & 4 -->
+        <tr>
+            <!-- Wide Finance Tile (4 cols, 2 rows) -->
+            <td colspan="4" rowspan="2">
+                <a href="https://www.google.com/finance" target="_blank" class="tile wide green">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/tradingview.svg" alt="Finance">
+                    <span class="tile-label">Finance</span>
+                </a>
+            </td>
+
+            <!-- Medium Skype / Teams Tile (2 cols, 2 rows) -->
+            <td colspan="2" rowspan="2">
+                <a href="https://skype.com" target="_blank" class="tile medium teal">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/skype.svg" alt="Skype">
+                    <span class="tile-label">Skype</span>
+                </a>
+            </td>
+
+            <!-- Medium Cloud Tile (2 cols, 2 rows) -->
+            <td colspan="2" rowspan="2">
+                <a href="https://onedrive.live.com" target="_blank" class="tile medium blue">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/microsoft-onedrive.svg" alt="OneDrive">
+                    <span class="tile-label">OneDrive</span>
+                </a>
+            </td>
+        </tr>
+
+        <!-- ROW 4 is fully consumed by the rowspans of ROW 3 -->
+
+        <!-- ROW 5 & 6 -->
+        <tr>
+            <!-- Medium Weather Tile (2 cols, 2 rows) -->
+            <td colspan="2" rowspan="2">
+                <a href="https://weather.com" target="_blank" class="tile medium dark-cyan">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/accuweather.svg" alt="Weather">
+                    <span class="tile-label">Weather</span>
+                </a>
+            </td>
+
+            <!-- Medium Notes Tile (2 cols, 2 rows) -->
+            <td colspan="2" rowspan="2">
+                <a href="https://www.onenote.com" target="_blank" class="tile medium purple">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/microsoft-onenote.svg" alt="OneNote">
+                    <span class="tile-label">OneNote</span>
+                </a>
+            </td>
+
+            <!-- Wide News Tile (4 cols, 2 rows) -->
+            <td colspan="4" rowspan="2">
+                <a href="https://news.google.com" target="_blank" class="tile wide red">
+                    <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/google-news.svg" alt="News">
+                    <span class="tile-label">Daily News</span>
+                </a>
+            </td>
+        </tr>
+
+        <!-- ROW 6 is fully consumed by the rowspans of ROW 5 -->
+    </table>
+
+</body>
+</html>

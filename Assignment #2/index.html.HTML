@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Microsoft Menu</title>
+    <style>
+        body {
+            font-family: "Segoe UI";
+            background: url("wallpaper.png") no-repeat center center fixed;
+            background-size: cover;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 40px 60px;
+            color: #ffffff;
+            margin: 0;
+            box-sizing: border-box;
+            overflow: hidden;
+            user-select: none;
+        }
+        .top-bar {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .top-bar h1 {
+            font-size: 3rem;
+            margin: 0;
+            font-weight: 300;
+            letter-spacing: 0.5px;
+            text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 24px;
+        }
+
+        .header-actions a {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            transition: opacity 0.15s ease, transform 0.15s ease;
+        }
+
+        .header-actions a:hover {
+            opacity: 0.8;   
+            transform: scale(1.1);
+        }
+
+        .menu-table-container {
+            padding: 16px;
+            background: rgba(0, 0, 0, 0.45);
+            backdrop-filter: blur(25px);
+            -webkit-backdrop-filter: blur(25px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 6px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+        }
+
+        .apps-table {
+            border-collapse: separate;
+            border-spacing: 8px; 
+            padding: 0;
+            margin: 0;
+        }
+
+        .apps-table td {
+            width: 125px;
+            height: 125px;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .apps-table td.span-2x2 {
+            width: 258px;
+            height: 258px;
+        }
+
+        .tile-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.15);
+            border-radius: 2px;
+            box-sizing: border-box;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background 0.2s ease, outline 0.15s ease, transform 0.15s ease;
+        }
+
+        .tile-link:hover {
+            background: rgba(255, 255, 255, 0.25);
+            outline: 2px solid rgba(255, 255, 255, 0.9);
+            transform: scale(1.02);
+            position: relative;
+            z-index: 10;
+        }
+
+        .tile-icon {
+            width: 52%;
+            height: 52%;
+            object-fit: contain;
+            pointer-events: none;
+        }
+
+        .span-2x2 .tile-icon {
+            width: 58%;
+            height: 58%;
+        }
+    </style>
+</head>
+<body>
+    <header class="top-bar">
+        <h1>Start</h1>
+        <div class="header-actions">
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" title="Power">
+                <img src="Power Button.png" alt="Power Button" width="36">
+            </a>
+            <a href="https://www.instagram.com/jeymieow/" target="_blank" title="Profile">
+                <img src="https://i.pinimg.com/736x/1b/84/0d/1b840d37ef4a636d87e163895a7c272f.jpg" alt="Profile" width="36" style="border-radius: 50%;">
+            </a>
+        </div>
+    </header>
+
+    <div class="menu-table-container">
+        <table class="apps-table">
+                <!-- Row 1 -->
+                <tr>
+                    <td rowspan="2" colspan="2" class="span-2x2">
+                        <a href="https://www.snapchat.com/" target="_blank" class="tile-link">
+                            <img src="https://play-lh.googleusercontent.com/YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK" class="tile-icon" alt="Grindr">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://open.spotify.com/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/736x/9b/18/57/9b1857defd4e25ce19cfb390b9c9fdba.jpg" class="tile-icon" alt="Spotify">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="http://pinterest.com/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/1200x/5c/af/0e/5caf0e96302ba07a3fcb86fcdf0f5129.jpg" class="tile-icon" alt="Pinterest">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://www.instagram.com/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/1200x/7e/76/7f/7e767fe360fe2a528c8feb3cd6a7ed19.jpg" class="tile-icon" alt="Instagram">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://www.netflix.com/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/1200x/72/a0/50/72a0500ff35991d147a6b48e4bffc721.jpg" class="tile-icon" alt="Netflix">
+                        </a>
+                    </td>
+                </tr>
+
+                <!-- Row 2 -->
+                <tr>
+                    <td>
+                        <a href="https://www.canva.com/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/1200x/b2/24/bc/b224bcfb58a1861dee8afc847a5d657d.jpg" class="tile-icon" alt="Canva">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://www.reddit.com/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/736x/e8/16/fd/e816fd46732d510267ebae5aaf16413c.jpg" class="tile-icon" alt="Reddit">
+                        </a>
+                    </td>
+                    <td rowspan="2" colspan="2" class="span-2x2">
+                        <a href="https://www.leagueoflegends.com/en-ph/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/1200x/d1/b1/1d/d1b11d5e4dbae547ac0d651476cec488.jpg" class="tile-icon" alt="League of Legends">
+                        </a>
+                    </td>
+                </tr>
+
+                <!-- Row 3 -->
+                <tr>
+                    <td>
+                        <a href="https://www.linkedin.com/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/736x/37/cb/45/37cb45471e72f36d99a84a2a2a8b1656.jpg" class="tile-icon" alt="LinkedIn">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://www.twitch.tv" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/736x/9e/f6/8f/9ef68fc0ec30d7c8d2084d33ac37ac53.jpg" class="tile-icon" alt="Twitch">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://www.tiktok.com/" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/736x/5d/63/c8/5d63c857404bab94c94a3f5b719628f2.jpg" class="tile-icon" alt="TikTok">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://twitter.com" target="_blank" class="tile-link">
+                            <img src="https://i.pinimg.com/736x/c1/d9/6c/c1d96c1f7a256e1a4dc31da44d715178.jpg" class="tile-icon" alt="Twitter">
+                        </a>
+                    </td>
+                </tr>
+        </table>
+    </div>
+
+</body>
+</html>
